@@ -1,1 +1,1 @@
-FROM salesforce/salesforcedx:latest-rc-full
+FROM salesforce/cli:latest-full
